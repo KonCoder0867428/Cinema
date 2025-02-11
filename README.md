@@ -2,7 +2,7 @@
 A Fun Cinema for Gang Beasts. :)
 
 ## Info
-This is Cinema. A Map for Gang Beasts that is a Cinema where you can actually watch you local computer video files in this Gang Beasts Map. To install it Follow these instruction bellow
+This is Cinema. A Map for Gang Beasts that is a Cinema where you can actually watch you local computer video files in this Gang Beasts Map. This is the first ever Map that includes Video Player from Unity in Gang Beasts! To install it Follow these instruction bellow
 
 ## Mod
 
