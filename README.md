@@ -10,7 +10,8 @@ This is Cinema. A Map for Gang Beasts that is a Cinema where you can actually wa
 |--------------|----------------|------------------------------------------------|
 | Cinema       | Map            | Built-in                                       |
 | CinemaPlayer | Mod (Map Code) | Built-in                                       |
-| CementGB     | Requirement    | _https://github.com/CementGB-4-0/CementSource_ |
+| CementGB     | Requirement    | https://github.com/CementGB-4-0/CementSource   |
+| Melon Loader | Mod Loader     | https://melonwiki.xyz/#/?id=requirements       |
 
 ## Instructions
 1. Download the mod from https://github.com/KonCoder0867428/Cinema/releases/tag/Release and get CementGB from the table if you haven't already.
